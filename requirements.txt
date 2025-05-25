@@ -1,6 +1,6 @@
-gradio
-numpy
-Pillow
-tensorflow
-torch
-ultralytics
+streamlit==1.35.0
+numpy==1.24.4
+Pillow==9.5.0
+tensorflow==2.12.0
+torch==2.0.1
+ultralytics==8.0.174
